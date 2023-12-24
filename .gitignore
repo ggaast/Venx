@@ -5,3 +5,4 @@ target
 Cargo.lock
 crates/venx_compute/Cargo.lock
 saves
+crates/venx_core/expr
